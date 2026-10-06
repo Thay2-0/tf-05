@@ -1,0 +1,1 @@
+A pasta .git armazena a estrutura do repositório: o HEAD aponta para a branch/commit atual, refs guarda os ponteiros das branches e tags, e config guarda as configurações do projeto
